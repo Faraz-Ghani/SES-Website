@@ -1,0 +1,62 @@
+.intro-achievements {
+  z-index: -4;
+}
+.intro-boxes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  z-index: -4;
+  margin-top: 2rem;
+  background-color: var(--darkBlue);
+  height: 70%;
+  position: relative;
+  top: 13px;
+  border-bottom: 18px solid var(--lightBlue);
+  border-top: 18px solid var(--lightBlue);
+}
+.i-box {
+  display: flex;
+  flex-direction: column;
+  padding: 3.5rem 3.5rem;
+  align-items: center;
+}
+.i-box p {
+  font-size: 1.6rem;
+  color: var(--whiteColor);
+  line-height: 2.5rem;
+}
+
+.vertical-line {
+  display: inline-block;
+  border-left: 1px solid #ccc;
+  margin: 0 10px;
+  height: 125px;
+}
+
+@media only screen and (max-width: 1036px) {
+  .i-box {
+    padding: 2.5rem 2.5rem;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .i-box {
+    padding: 1.5rem 1.5rem;
+  }
+}
+
+@media only screen and (max-width: 868px) {
+  .intro-boxes {
+    flex-wrap: wrap;
+  }
+  .vertical-line {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 457px) {
+  .intro-boxes {
+    flex-direction: column;
+  }
+}

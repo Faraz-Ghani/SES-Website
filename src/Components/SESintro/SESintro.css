@@ -1,0 +1,24 @@
+.ses-intro{
+    margin: 3em 0;
+}
+.ses-intro .container{
+    background-color: rgb(30 136 229);
+    padding: 20px 0;
+    border-radius: 20px;
+}
+
+.intro-img1 img , .intro-img2 img , .intro-img3 img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.intro-text h2{
+    font-size: 48px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.intro-text p{
+    color: #fff;
+    width: 80%;
+}
