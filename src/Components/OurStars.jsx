@@ -36,10 +36,10 @@ const Star = () => {
                                                 <div className="col-12">
                                                     <div className="iamstar wow animate__animated animate__fadeInDown my-5">
                                                         <div className="star-img">
-                                                        <img src="/images/Faeez Ahmed.jpg" alt="" />
+                                                        <img src="https://i.ibb.co/nCGrMhb/Management-Ahmed-Siddiqui.jpg" alt="" />
                                                         </div>
-                                                        <h4>Faeez Ahmed</h4>
-                                                        <h6>Director Designer(Head)</h6>
+                                                        <h4>Muhammad Ahmed</h4>
+                                                        <h6>Director Management</h6>
                                                     </div>
                                                 </div>
                                             </div>
@@ -51,10 +51,10 @@ const Star = () => {
                                                 <div className="col-12">
                                                     <div className="iamstar my-5 wow animate__animated animate__fadeInDown">
                                                         <div className="star-img">
-                                                        <img src="/images/Maryam.jpg" alt="" />
+                                                        <img src="https://i.ibb.co/pLzXbHy/Maryam-Qureshi.png" alt="" />
                                                         </div>
-                                                        <h4>Maryam</h4>
-                                                        <h6>Director Designing</h6>
+                                                        <h4>Maryam Qureshi</h4>
+                                                        <h6>Head Director Designing</h6>
                                                     </div>
                                                 </div>
                                             </div>
@@ -66,10 +66,10 @@ const Star = () => {
                                                 <div className="col-12">
                                                     <div className="iamstar my-5 wow animate__animated animate__fadeInDown">
                                                         <div className="star-img">
-                                                        <img src="/images/Faraz Ghani.jpg" alt="" />
+                                                        <img src="https://i.ibb.co/YcfTbmX/Head-oc-Tayyaba-Bhatti.jpg" alt="" />
                                                         </div>
-                                                        <h4>Faraz Ghani</h4>
-                                                        <h6>Director Videography(Head)</h6>
+                                                        <h4>Tayyaba Bhatti</h4>
+                                                        <h6>Head of Organizing Council</h6>
                                                     </div>
                                                 </div>
                                             </div>
@@ -81,10 +81,10 @@ const Star = () => {
                                                 <div className="col-12">
                                                     <div className="iamstar my-5 wow animate__animated animate__fadeInDown">
                                                         <div className="star-img">
-                                                        <img src="https://i.ibb.co/X3gMt5t/95-E8-FC9-F-95-FE-4-B22-9-BD0-2-A11-A27-C9794-Muzafar-Mahar.jpg" alt="" />
+                                                        <img src="https://i.ibb.co/GtVDKFx/Uroosham-Head-Media.jpg" alt="" />
                                                         </div>
-                                                        <h4>Muzafar Ibrahim</h4>
-                                                        <h6>Director Logistics(Head)</h6>
+                                                        <h4>Uroosham Memon</h4>
+                                                        <h6>Head Director Media</h6>
                                                     </div>
                                                 </div>
                                             </div>
@@ -96,10 +96,10 @@ const Star = () => {
                                                 <div className="col-12">
                                                     <div className="iamstar my-5 wow animate__animated animate__fadeInDown">
                                                         <div className="star-img">
-                                                        <img src="https://i.ibb.co/ZS5jtPS/minal.jpg" alt="" />
+                                                        <img src="https://i.ibb.co/S5yJRNb/Soorat-Management.jpg" alt="" />
                                                         </div>
-                                                        <h4>Minal Azhar</h4>
-                                                        <h6>Director Editorial(Head)</h6>
+                                                        <h4>Soorat Ali</h4>
+                                                        <h6>Director Management</h6>
                                                     </div>
                                                 </div>
                                             </div>
@@ -111,10 +111,10 @@ const Star = () => {
                                                 <div className="col-12">
                                                     <div className="iamstar my-5 wow animate__animated animate__fadeInDown">
                                                         <div className="star-img">
-                                                        <img src="https://i.ibb.co/xjGgzhv/IMG-20230530-WA0037-Zarmeena-Khan.jpg" alt="" />
+                                                        <img src="https://i.ibb.co/4RFvQnn/OC-Rafay-Shakeel.jpg" alt="" />
                                                         </div>
-                                                        <h4>Zarmeena Khan</h4>
-                                                        <h6>Director Management(Head)</h6>
+                                                        <h4>Rafay Shakeel</h4>
+                                                        <h6>Organzing Council</h6>
                                                     </div>
                                                 </div>
                                             </div>
@@ -126,10 +126,10 @@ const Star = () => {
                                                 <div className="col-12">
                                                     <div className="iamstar my-5 wow animate__animated animate__fadeInDown">
                                                         <div className="star-img">
-                                                        <img src="https://i.ibb.co/RYwPVbp/1673766399354-SES-MUET.jpg" alt="" />
+                                                        <img src="https://i.ibb.co/S7T8zGG/Media-Aimon-Zehra.jpg" alt="" />
                                                         </div>
-                                                        <h4>Muhammad Daniyal</h4>
-                                                        <h6>Director Media(Head)</h6>
+                                                        <h4>Aimon Zehra</h4>
+                                                        <h6>Director Media</h6>
                                                     </div>
                                                 </div>
                                             </div>

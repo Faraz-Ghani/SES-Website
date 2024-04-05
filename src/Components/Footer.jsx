@@ -36,7 +36,7 @@ const Footer = () => {
                 <a href="https://twitter.com/sesmuet?t=y9nHytI4s0P4ENCZE3BCjA&s=09" target="_blank" rel="noreferrer" ><FaTwitter /></a>
                 <a href="https://youtube.com/@softwareengineeringsociety4415" target="_blank" rel="noreferrer"><FaYoutube/></a>              
               <a href="https://www.facebook.com/SESMUET?mibextid=ZbWKwL" target="_blank" rel="noreferrer" ><FaFacebookF /></a>
-              <a href="https://www.linkedin.com/in/ses-muet-216387204" target="_blank" rel="noreferrer" ><FaLinkedinIn /></a>
+              <a href="https://www.linkedin.com/company/sesmuet" target="_blank" rel="noreferrer" ><FaLinkedinIn /></a>
 
               </div>
             </div>

@@ -17,7 +17,7 @@ const Partners = () => {
               <img src='/images/logo3.png' alt="" width="90" />
             </div>
             <div className="col py-5 partner">
-              <img src='/images/logo4.png' alt="" width="90" />
+              <img src='public\images\Jugnu GSM.png' alt="" width="90" />
             </div>
             <div className="col py-5 partner border-end-0">
               <img src='/images/logo5.png' alt="" width="90" />

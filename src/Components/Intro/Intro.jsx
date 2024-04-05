@@ -70,9 +70,9 @@ function Intro() {
           </div>
 
           <div className="image_wrapper img-2 ">
-            <img src='/images/datascience4.jpg' alt="" />
+            <img src='/images/TechAreena4.jpg' alt="" />
             <div className="overlay overlay_1">
-              <h3>Data Science </h3>
+              <h3>Tech Arena </h3>
             </div>
           </div>
 

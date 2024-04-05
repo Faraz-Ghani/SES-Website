@@ -1,5 +1,372 @@
 const cardData = [
   {
+    team6: {
+      tenure: "2023-2024",
+      members: [
+        {
+          name: "Faraz Ghani",
+          post: "President",
+          description: "",
+          image:
+            "https://i.ibb.co/ZLNYDm3/Faraz.jpg",
+          LinkedIn: "linkedin.com/in/farazg",
+          Twitter: "",
+        },
+        {
+          name: "Sarwat Aijaz",
+          post: "Vice President",
+          description: "",
+          image:
+            "https://i.ibb.co/QjgqWJ3/Vp-Sarwat-Aijaz.jpg",
+          LinkedIn: "linkedin.com/in/sarwataijaz",
+          Twitter: "",
+        },
+        {
+          name: "Sachal Sahito",
+          post: "Treasurer",
+          description: "",
+          image:
+            "https://i.ibb.co/4tcYVzs/Treasurer-Sachal-Sahito.jpg",
+          LinkedIn: "linkedin.com/in/muhammad-sachal-sahito-833ba2232",
+          Twitter: "",
+        },
+        {
+          name: "Gotam Kumar",
+          post: "General Secretary",
+          description: "",
+          image:
+            "https://i.ibb.co/GdT14HM/GS-Gotam-Kumar.jpg",
+          LinkedIn: "linkedin.com/in/gotam-kumar-5239a525b",
+          Twitter: "",
+        },
+        {
+          name: "Ghulam Mustafa",
+          post: "Joint Secretary",
+          description: "",
+          image:
+            "https://i.ibb.co/G7SkWf3/JS-Ghulam-Mustafa.jpg",
+          LinkedIn: "https://www.linkedin.com/in/ghulam-mustafa-23sw/",
+          Twitter: "",
+        },
+        {
+          name: "Masood Ali",
+          post: "Head Director Management",
+          description: "",
+          image:
+            "https://i.ibb.co/MS2zvxf/Head-management-Masood-Ali.png",
+          LinkedIn: "linkedin.com/in/masood-ali-487116233",
+          Twitter: "",
+        },
+        {
+          name: "Humera Masood",
+          post: "Director Management",
+          description: "",
+          image:
+            "https://i.ibb.co/r3km8T8/Mangement-Humera-Masood.jpg",
+          LinkedIn: "linkedin.com/in/humera-soomro-607245297",
+          Twitter: "",
+        },
+        {
+          name: "Soorat Ali",
+          post: "Director Management",
+          description: "",
+          image:
+            "https://i.ibb.co/S5yJRNb/Soorat-Management.jpg",
+          LinkedIn: "linkedin.com/in/soorat-ali-3391aa289",
+          Twitter: "",
+        },
+        {
+          name: "Muhammad Ahmed",
+          post: "Director Management",
+          description: "",
+          image:
+            "https://i.ibb.co/nCGrMhb/Management-Ahmed-Siddiqui.jpg",
+          LinkedIn: "linkedin.com/in/ahmedsidd-qui",
+          Twitter: "",
+        },
+        {
+          name: "Rutba Nisar",
+          post: "Director Management",
+          description: "",
+          image:
+            "https://i.ibb.co/hfZ58MC/Management-rutba-nisar.jpg",
+          LinkedIn: "linkedin.com/in/rutbanisar05",
+          Twitter: "",
+        },
+        {
+          name: "Maryam Qureshi",
+          post: "Head Director Designing",
+          description: "",
+          image:
+            "https://i.ibb.co/pLzXbHy/Maryam-Qureshi.png",
+          LinkedIn: "linkedin.com/in/maryam-qureshi-937a96250",
+          Twitter: "",
+        },
+        {
+          name: "Mahrukh Mahar",
+          post: "Director Designing",
+          description: "",
+          image:
+            "https://i.ibb.co/hfCM5dt/Design-Mahrukh-mahar.jpg",
+          LinkedIn: "linkedin.com/in/",
+          Twitter: "",
+        },
+        {
+          name: "Mustafa",
+          post: "Director Designing",
+          description: "",
+          image:
+            "https://i.ibb.co/YPgrNCK/Design-Mustafa-Jan.jpg",
+          LinkedIn: "linkedin.com/in/",
+          Twitter: "",
+        },
+        {
+          name: "Uroosham Memon",
+          post: "Head Director Media",
+          description: "",
+          image:
+            "https://i.ibb.co/GtVDKFx/Uroosham-Head-Media.jpg",
+          LinkedIn: "linkedin.com/in/urooshammemon",
+          Twitter: "",
+        },
+        {
+          name: "Rubab Majid",
+          post: "Director Media",
+          description: "",
+          image:
+            "https://i.ibb.co/gyF3dJX/Rubab-Majid-Media.jpg",
+          LinkedIn: "https://www.linkedin.com/in/rubab-majid-/",
+          Twitter: "",
+        },
+        {
+          name: "Hafsa Noor",
+          post: "Director Media",
+          description: "",
+          image:
+            "https://i.ibb.co/phd9GCb/Media-Hafsa-Noor-Khokhar.jpg",
+          LinkedIn: "https://www.linkedin.com/in/hafsa-noor-295ab5261/",
+          Twitter: "",
+        },
+        {
+          name: "Aimon Zehra",
+          post: "Director Media",
+          description: "",
+          image:
+            "https://i.ibb.co/S7T8zGG/Media-Aimon-Zehra.jpg",
+          LinkedIn: "linkedin.com/in/aimonzehra",
+          Twitter: "",
+        },
+        {
+          name: "Aiman Shaikh",
+          post: "Head Director Editorial",
+          description: "",
+          image:
+            "https://i.ibb.co/gwGwtCx/Head-editorial-Aiman-Shaikh.jpg",
+          LinkedIn: "linkedin.com/in/aiman-shaikh-023949260",
+          Twitter: "",
+        },
+        {
+          name: "Mahad Shah Rashidi",
+          post: "Director Editorial",
+          description: "",
+          image:
+            "https://i.ibb.co/8KJR8gG/Editorial-Mahad-Rashdi.jpg",
+          LinkedIn: "linkedin.com/in/shahgger",
+          Twitter: "",
+        },
+        {
+          name: "Varoon Kumar",
+          post: "Head Director Videography",
+          description: "",
+          image:
+            "https://i.ibb.co/gmGXzQV/Head-video-Varoon-Kumar.jpg",
+          LinkedIn: "https://www.linkedin.com/in/varoon-kumar-250a1a252/",
+          Twitter: "",
+        },
+        {
+          name: "Rania Shah",
+          post: "Director Videography",
+          description: "",
+          image:
+            "https://i.ibb.co/sv0bDSm/Video-Rania-Shah.jpg",
+          LinkedIn: "linkedin.com/in/rania-sadia-ba784a296",
+          Twitter: "",
+        },
+        {
+          name: "Zain Khan Awan",
+          post: "Head Director Marketing",
+          description: "",
+          image:
+            "https://i.ibb.co/ZzBK5jY/Head-marketing-Zain-Khan.jpg",
+          LinkedIn: "linkedin.com/in/zain-khan-ba1664297",
+          Twitter: "",
+        },
+        {
+          name: "Abdul Haseeb",
+          post: "Director Marketing",
+          description: "",
+          image:
+            "https://i.ibb.co/7SqXgHz/Marketin-Abdul-Haseeb-Memon.jpg",
+          LinkedIn: "https://www.linkedin.com/in/abdul-haseeb-memon-78681625b/",
+          Twitter: "",
+        },
+        {
+          name: "Taneesha Lohana",
+          post: "Director Marketing",
+          description: "",
+          image:
+            "https://i.ibb.co/THgCkwh/Market-Tanisha-Lohana.jpg",
+          LinkedIn: "https://www.linkedin.com/in/taneesha-lohana-178005263/",
+          Twitter: "",
+        },
+        {
+          name: "Raza Zaeem",
+          post: "Head Director Photography",
+          description: "",
+          image:
+            "https://i.ibb.co/FxhpYm9/Head-photo-Zaeem-Raza.jpg",
+          LinkedIn: "linkedin.com/in/zaeem-raza-20560125b",
+          Twitter: "",
+        },
+        {
+          name: "Nashra Jahejo",
+          post: "Director Photography",
+          description: "",
+          image:
+            "https://i.ibb.co/wwsBvPt/Photo-Nashra-Jahejo.jpg",
+          LinkedIn: "https://www.linkedin.com/in/nashrah-jahejo-824965288/",
+          Twitter: "",
+        },
+        {
+          name: "Haram Rajput",
+          post: "Head Director Logistics",
+          description: "",
+          image:
+            "https://i.ibb.co/59kmQR1/Head-logistics-Mohammad-Haram-Rajput.jpg",
+          LinkedIn: "linkedin.com/in/haram-rajput-221b94261",
+          Twitter: "",
+        },
+        {
+          name: "Jahanzaib Ansari",
+          post: "Director Logistics",
+          description: "",
+          image:
+            "https://i.ibb.co/b6NT4Qb/Jahanzaib-Logistics.jpg",
+          LinkedIn: "linkedin.com/in/jahanzaib-ansari-b50b49296",
+          Twitter: "",
+        },
+        {
+          name: "Zeeshan Talpur",
+          post: "Director Logistics",
+          description: "",
+          image:
+            "https://i.ibb.co/XY3Rjsh/logistics-Zeeshan-Talpur.jpg",
+          LinkedIn: "linkedin.com/in/zeeshan-talpur-4277b4252",
+          Twitter: "",
+        },
+        {
+          name: "Tayyaba Bhatti",
+          post: "Head of Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/YcfTbmX/Head-oc-Tayyaba-Bhatti.jpg",
+          LinkedIn: "linkedin.com/in/tayyaba-bhatti-955a3725b",
+          Twitter: "",
+        },
+        {
+          name: "Sumair Shahani",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/CnhzvxM/OC-Sumair-Ali-Shahani.jpg",
+          LinkedIn: "linkedin.com/in/sumairalishahani",
+          Twitter: "",
+        },
+        {
+          name: "Abdul Basit",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/mqQL5T4/OC-basit-memon.jpg",
+          LinkedIn: "linkedin.com/in/abdulbasit-m",
+          Twitter: "",
+        },
+        {
+          name: "Rafay Shakeel",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/4RFvQnn/OC-Rafay-Shakeel.jpg",
+          LinkedIn: "linkedin.com/in/rafayshakeel",
+          Twitter: "",
+        },
+        {
+          name: "Rida Batool",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/4V4th31/OC-rida.jpg",
+          LinkedIn: "linkedin.com/in/rida-batool-a42438297",
+          Twitter: "",
+        },
+        {
+          name: "Hadisa Naqvi",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/DrrDrvz/Hadisa-Naqvi-OC.jpg",
+          LinkedIn: "linkedin.com/in/hadisa-naqvi-412b45282",
+          Twitter: "",
+        },
+        {
+          name: "Hadisa Syed",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/GQN8nQD/OC-Hadisa-Syed.jpg",
+          LinkedIn: "linkedin.com/in/hadisa-fatima-syed-85537a266",
+          Twitter: "",
+        },
+        {
+          name: "Saria Nadeem",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/LYvrK6j/OC-Saria-Nadeem.jpg",
+          LinkedIn: "https://www.linkedin.com/in/saria-nadeem-0124192b5/",
+          Twitter: "",
+        },
+        {
+          name: "Ghulam Hussain Khuhro",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/Y2SzQ6v/OC-Ghulam-Hussain-Khuhro.jpg",
+          LinkedIn: "linkedin.com/in/ghulam-hussain-khuhro-5b4783243",
+          Twitter: "",
+        },
+        {
+          name: "Hassan ahmed",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/WzkV9vv/OC-Ha-Ssan-Ahme-D.jpg",
+          LinkedIn: "https://www.linkedin.com/in/hassan-ahmed64/",
+          Twitter: "",
+        },
+        {
+          name: "Areej Fatima",
+          post: "Organization Council",
+          description: "",
+          image:
+            "https://i.ibb.co/R2k6hNs/OC-Areej-Fatima.jpg",
+          LinkedIn: "linkedin.com/in/areejfatima13",
+          Twitter: "",
+        },
+      ]
+    },
+
+
     team5: {
       tenure: "2022-2023",
       members: [
