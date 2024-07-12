@@ -1,3 +1,4 @@
+
 import Navbar from './Components/Navbar/Navbar';
 import Intro from './Components/Intro/Intro';
 import IntroAchievements from './Components/Intro/IntroAchievements/IntroAchievements';
@@ -9,17 +10,20 @@ import Appreciations from './Components/Appreciations.jsx'
 import Partners from './Components/Partners.jsx'
 import Star from './Components/OurStars';
 import Developers from './Components/Developers';
+import EventToast from './Components/eventToast';
 
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 
 import './App.css';
 
+
 function App() {
 
   return (
 
     <>
+      <EventToast />
       <Navbar />
       <Intro></Intro>
       <IntroAchievements></IntroAchievements>
