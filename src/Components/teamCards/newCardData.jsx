@@ -1,3 +1,5 @@
+// Dont use same name in one team
+
 const cardData = [
   {
     team6: {
