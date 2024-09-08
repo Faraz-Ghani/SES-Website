@@ -8,13 +8,7 @@ const Partners = () => {
         <div className="container">
           <div className="row">
             <div className="col py-5 partner">
-              <img src='/images/logo1.png' alt="" width="90" />
-            </div>
-            <div className="col py-5 partner">
-              <img src='/images/logo2.png' alt="" width="90" />
-            </div>
-            <div className="col py-5 partner">
-              <img src='/images/logo3.png' alt="" width="90" />
+              <img src='/images/logo1.jpg' alt="" width="90" />
             </div>
             <div className="col py-5 partner">
               <img src='/images/logo5.png' alt="" width="90" />
@@ -26,29 +20,17 @@ const Partners = () => {
 
           <div className="row">
             <div className="col py-5 partner">
-              <img src='/images/logo6.png' alt="" width="90" />
-            </div>
-            <div className="col py-5 partner">
-              <img src='/images/logo7.png' alt="" width="90" />
-            </div>
-            <div className="col py-5 partner">
-              <img src='/images/logo8.png' alt="" width="90" />
-            </div>
-            <div className="col py-5 partner">
               <img src='/images/logo9.png' alt="" width="90" />
             </div>
-            <div className="col py-5 partner border-end-0">
-              <img src='/images/logo10.png' alt="" width="90" />
+          
+            <div className="col py-5 partner border-bottom-0">
+              <img src='/images/logo12.png' alt="" width="90" />
             </div>
           </div>
 
           <div className="row">
-            <div className="col py-5 partner border-bottom-0">
-              <img src='/images/logo11.png' alt="" width="90" />
-            </div>
-            <div className="col py-5 partner border-bottom-0">
-              <img src='/images/logo12.png' alt="" width="90" />
-            </div>
+            
+            
             <div className="col py-5 partner border-bottom-0">
               <img src='/images/logo13.png' alt="" width="90" />
             </div>
