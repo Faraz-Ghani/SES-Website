@@ -47,6 +47,44 @@ export default function App() {
             <div className="row">
               <div className="col-12">
               <div className="event-details">
+                <h3 className="wow animate__animated animate__fadeInUp" >Tech Arena 2024</h3>
+                <h5 className="wow animate__animated animate__fadeInUp" >28 August 2023</h5>
+                <p className="wow animate__animated animate__fadeInUp" >Tech Arena 2024, organized by the Software Engineering Society (SES) at MUET, was a remarkable two-day event held on August 26-27, 2024. The event brought together students, faculty, and tech enthusiasts for an immersive experience that celebrated innovation, teamwork, and excellence.
+
+Throughout the event, participants engaged in a diverse range of activities, from intense competitions to creative showcases, each designed to challenge both technical and non-technical skills. The spirit of collaboration was evident as teams worked together to solve problems, demonstrate their abilities, and push the boundaries of what they could achieve. 
+
+The closing ceremony marked the highlight of the event, with speeches from key figures, the distribution of awards, and announcements that left the attendees excited for the future. Tech Arena 2024 not only elevated the reputation of the Software Engineering department but also provided a platform for students to demonstrate their talents, form lasting connections, and contribute to the growing community of innovators at MUET.</p>
+                </div>
+              </div>
+            </div>
+            <div className="row align-items-center">
+            <div className="col-md-6 col-sm-12">
+                <div className="event-gallery1">
+                  <img src="/images/ta24-4.jpg" alt="" />
+                <img className="mt-5" src="/images/ta24-1.jpg" alt="" />
+
+                </div>
+              </div>
+            {/* <div className="col-md-6 col-12">
+              <div className="event-gallery3">
+              </div>
+              </div> */}
+              <div className="col-md-5 col-sm-12">
+                <div className="event-gallery2">
+                  <img src="/images/ta24-2.jpg" alt="" />
+                  <img src="/images/ta24-3.jpg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </SwiperSlide>
+
+
+<SwiperSlide>
+        <div className="container">
+            <div className="row">
+              <div className="col-12">
+              <div className="event-details">
                 <h3 className="wow animate__animated animate__fadeInUp" >Deep Dive into Outcome Based Education</h3>
                 <h5 className="wow animate__animated animate__fadeInUp" >20th March 2024</h5>
                 <p className="wow animate__animated animate__fadeInUp" >This seminar provided an engaging exploration of outcome-based education (OBE), highlighting the importance of defining specific, measurable learning outcomes for students. By aligning curriculum, instruction, and assessment methods with these outcomes, attendees gained insights into better preparing for future roles and careers. The seminar focused on enhancing understanding of Course Learning Outcomes (CLO) and Program Learning Outcomes (PLO), offering valuable guidance for all First Year students. Presented by Miss Mariam Memon, this seminar was a must-attend event for those seeking to advance their educational journey and career prospects.</p>

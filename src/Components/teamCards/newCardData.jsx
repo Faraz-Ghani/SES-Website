@@ -175,14 +175,14 @@ const cardData = [
             "https://i.ibb.co/8KJR8gG/Editorial-Mahad-Rashdi.jpg",
           LinkedIn: "linkedin.com/in/shahgger",
           Twitter: "",
-        },
+        },  
         {
-          name: "Varoon Kumar",
+          name: "Hassan ahmed",
           post: "Head Director Videography",
           description: "",
           image:
-            "https://i.ibb.co/gmGXzQV/Head-video-Varoon-Kumar.jpg",
-          LinkedIn: "https://www.linkedin.com/in/varoon-kumar-250a1a252/",
+            "https://i.ibb.co/WzkV9vv/OC-Ha-Ssan-Ahme-D.jpg",
+          LinkedIn: "https://www.linkedin.com/in/hassan-ahmed64/",
           Twitter: "",
         },
         {
@@ -210,15 +210,6 @@ const cardData = [
           image:
             "https://i.ibb.co/7SqXgHz/Marketin-Abdul-Haseeb-Memon.jpg",
           LinkedIn: "https://www.linkedin.com/in/abdul-haseeb-memon-78681625b/",
-          Twitter: "",
-        },
-        {
-          name: "Taneesha Lohana",
-          post: "Director Marketing",
-          description: "",
-          image:
-            "https://i.ibb.co/THgCkwh/Market-Tanisha-Lohana.jpg",
-          LinkedIn: "https://www.linkedin.com/in/taneesha-lohana-178005263/",
           Twitter: "",
         },
         {
@@ -258,30 +249,12 @@ const cardData = [
           Twitter: "",
         },
         {
-          name: "Zeeshan Talpur",
-          post: "Director Logistics",
-          description: "",
-          image:
-            "https://i.ibb.co/XY3Rjsh/logistics-Zeeshan-Talpur.jpg",
-          LinkedIn: "linkedin.com/in/zeeshan-talpur-4277b4252",
-          Twitter: "",
-        },
-        {
           name: "Tayyaba Bhatti",
           post: "Head of Organization Council",
           description: "",
           image:
             "https://i.ibb.co/YcfTbmX/Head-oc-Tayyaba-Bhatti.jpg",
           LinkedIn: "linkedin.com/in/tayyaba-bhatti-955a3725b",
-          Twitter: "",
-        },
-        {
-          name: "Sumair Shahani",
-          post: "Organization Council",
-          description: "",
-          image:
-            "https://i.ibb.co/CnhzvxM/OC-Sumair-Ali-Shahani.jpg",
-          LinkedIn: "linkedin.com/in/sumairalishahani",
           Twitter: "",
         },
         {
@@ -300,15 +273,6 @@ const cardData = [
           image:
             "https://i.ibb.co/4RFvQnn/OC-Rafay-Shakeel.jpg",
           LinkedIn: "linkedin.com/in/rafayshakeel",
-          Twitter: "",
-        },
-        {
-          name: "Rida Batool",
-          post: "Organization Council",
-          description: "",
-          image:
-            "https://i.ibb.co/4V4th31/OC-rida.jpg",
-          LinkedIn: "linkedin.com/in/rida-batool-a42438297",
           Twitter: "",
         },
         {
@@ -345,15 +309,6 @@ const cardData = [
           image:
             "https://i.ibb.co/Y2SzQ6v/OC-Ghulam-Hussain-Khuhro.jpg",
           LinkedIn: "linkedin.com/in/ghulam-hussain-khuhro-5b4783243",
-          Twitter: "",
-        },
-        {
-          name: "Hassan ahmed",
-          post: "Organization Council",
-          description: "",
-          image:
-            "https://i.ibb.co/WzkV9vv/OC-Ha-Ssan-Ahme-D.jpg",
-          LinkedIn: "https://www.linkedin.com/in/hassan-ahmed64/",
           Twitter: "",
         },
         {

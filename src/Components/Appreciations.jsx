@@ -1,6 +1,12 @@
 import Card from "./Card.jsx"
 const Appreciations = () => {
   const cardsData = [
+    
+    {
+      imageSrc: '/images/Chairman.jpg',
+      quote: "As software engineers, you have the power to shape the future. Let's push boundaries, challenge norms, and create extraordinary solutions! Stay curious, keep exploring, and innovate with passion. Together, we can make a difference! Let's make this year unforgettable! Share your ideas, participate actively, and let's grow together!",
+      author: 'Prof. Dr. Qasim Ali\nChairman @SWDepartment'
+    },
     {
       imageSrc: '/images/sir moshin.jpeg',
       quote: "SES is the pride of the Department of SOFTWARE ENGINEERING. All the members of the society are energetic and keen to perform brilliantly in challenging situations. The events organized and managed by SES are truely remarkable and provide them the opportunity to show their best side. I wish you all the very best and pray for your future endeavors.",
@@ -9,13 +15,8 @@ const Appreciations = () => {
     {
       imageSrc: '/images/2.png',
       quote: "I want to express my heartfelt appreciation to the Software Engineering Society for their incredible efforts in planning and organizing a variety of fun and educational events. Their hard work has truly made our department more exciting and engaging. As the department's chairman, I am truly impressed by their dedication and the positive impact they have on our students. Thank you for creating such wonderful opportunities for everyone to learn and have a great time together!",
-      author: 'Dr. Naeem Mahoto\nChairman @SWDepartment'
+      author: 'Dr. Naeem Mahoto\nAssociate Professor'
     },
-    {
-      imageSrc: '/images/mam rabia.jpeg',
-      quote: "I have been working with SES for over a year now and I am highly impressed by this young and zealous team of individuals. Team SES has been working day and night to promote technical as well as extra-curricular events in the department so that students can enjoy the best of both worlds. Keep working hard and good luck",
-      author: 'Dr. Rabeea Jaffari\nAssistant Professor'
-    }
   ];
 
   return (

@@ -7,7 +7,7 @@ const EventToast = () => {
   const [formLink, setFormLink] = useState('');
 
   useEffect(() => {
-    fetch('https://raw.githubusercontent.com/Faraz-Ghani/Faraz-Ghani/main/link.https://raw.githubusercontent.com/Software-Engineering-Society-MUET/SES-Website/main/link.json')
+    fetch('https://raw.githubusercontent.com/Software-Engineering-Society-MUET/SES-Website/main/link.json')
       .then(response => response.json())
       .then(data => {
         console.log(data.formLink)
